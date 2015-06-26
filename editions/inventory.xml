@@ -6,9 +6,9 @@
             of Greek texts. </description>
     </ctsnamespace>
     
-    <textgroup urn="urn:cts:greekLit:tlg0012">
+    <textgroup urn="urn:cts:greekLit:tlg0012:">
         <groupname xml:lang="eng"> Homeric epic</groupname>
-        <work urn="urn:cts:greekLit:tlg0012.tlg001" xml:lang="grc">
+        <work urn="urn:cts:greekLit:tlg0012.tlg001:" xml:lang="grc">
             <title xml:lang="eng"> Iliad </title>
             <edition urn="urn:cts:greekLit:tlg0012.tlg001.msA:">
                 <label xml:lang="eng"> A </label>
@@ -28,9 +28,9 @@
     </textgroup>
     
     
-    <textgroup urn="urn:cts:greekLit:tlg5026">
+    <textgroup urn="urn:cts:greekLit:tlg5026:">
         <groupname xml:lang="eng"> Scholia to the Iliad</groupname>
-        <work urn="urn:cts:greekLit:tlg5026.msA" xml:lang="grc">
+        <work urn="urn:cts:greekLit:tlg5026.msA:" xml:lang="grc">
             <title xml:lang="eng"> Main marginal scholia</title>
             <edition urn="urn:cts:greekLit:tlg5026.msA.hmt:">
                 <label xml:lang="eng">msA</label>
@@ -49,7 +49,7 @@
                 
             </edition>
         </work>
-        <work urn="urn:cts:greekLit:tlg5026.msAext" xml:lang="grc">
+        <work urn="urn:cts:greekLit:tlg5026.msAext:" xml:lang="grc">
             <title xml:lang="eng"> Exterior scholia</title>
             <edition urn="urn:cts:greekLit:tlg5026.msAext.hmt:">
                 <label xml:lang="eng">msAext</label>
@@ -68,7 +68,7 @@
                 
             </edition>
         </work>
-        <work urn="urn:cts:greekLit:tlg5026.msAil" xml:lang="grc">
+        <work urn="urn:cts:greekLit:tlg5026.msAil:" xml:lang="grc">
             <title xml:lang="eng"> Interlinear scholia</title>
             <edition urn="urn:cts:greekLit:tlg5026.msAil.hmt:">
                 <label xml:lang="eng">msAil</label>
@@ -87,7 +87,7 @@
                 
             </edition>
         </work>
-        <work urn="urn:cts:greekLit:tlg5026.msAim" xml:lang="grc">
+        <work urn="urn:cts:greekLit:tlg5026.msAim:" xml:lang="grc">
             <title xml:lang="eng"> Intermarginal scholia</title>
             <edition urn="urn:cts:greekLit:tlg5026.msAim.hmt:">
                 <label xml:lang="eng">msAim</label>
@@ -107,7 +107,7 @@
             </edition>
         </work>
         
-        <work urn="urn:cts:greekLit:tlg5026.msAint" xml:lang="grc">
+        <work urn="urn:cts:greekLit:tlg5026.msAint:" xml:lang="grc">
             <title xml:lang="eng"> Interior scholia</title>
             <edition urn="urn:cts:greekLit:tlg5026.msAint.hmt:">
                 <label xml:lang="eng">msAint</label>
