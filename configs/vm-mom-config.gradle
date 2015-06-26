@@ -1,14 +1,15 @@
 project.ext {
 
-  textInventory="${DIR}editions/inventory.xml"
-  textArchive="${DIR}editions"
+  textInventory="/vagrant/uwash/editions/inventory.xml"
+  textArchive="/vagrant/uwash/editions"
+  invSchema="/vagrant/uwash/schemas/TextInventory.rng"
 
     // Lists of index files to use in verification:
-    folioToImage = "${DIR}indices/venA-folioToImage.csv"
+    folioToImage = "/vagrant/uwash/indices/venA-folioToImage.csv"
 
-    textToImage = "${DIR}indices/venA-textToImage-Iliad.csv"
-    textToFolio = "${DIR}indices/venA-textToFolio-Iliad.csv"
+    textToImage = "/vagrant/uwash/indices/venA-textToImage-Iliad.csv"
+    textToFolio = "/vagrant/uwash/indices/venA-textToFolio-Iliad.csv"
 
-    scholiaInventories = "${DIR}collections/venA-exterior.csv,${DIR}collections/venA-intermarginal.csv,${DIR}collections/venA-interior.csv,${DIR}collections/venA-mainScholia.csv,${DIR}collections/venA-interlinear.csv"
+    scholiaInventories = "/vagrant/uwash/collections/venA-exterior.csv,/vagrant/uwash/collections/venA-intermarginal.csv,/vagrant/uwash/collections/venA-interior.csv,/vagrant/uwash/collections/venA-mainScholia.csv,/vagrant/uwash/collections/venA-interlinear.csv"
     
 }
