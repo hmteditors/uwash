@@ -1,6 +1,6 @@
 # Within HMT VM, run HMT-MOM's palView task:
 
-PALFILE=${DIR}collections/paleography.csv
+PALFILE=/vagrant/uwash/collections/paleography.csv
 
 cd /vagrant/hmt-mom
 
