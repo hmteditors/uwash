@@ -3,16 +3,16 @@
 
 Editing manuscripts for the HMT project at the University of Washington.
 
-## Work for Fall, 2014 ##
+## Work for Fall, 2015 ##
 
 
 Basic infrastructure for working with digital representations of manuscripts:
 
-- to be determined
+- Index lines of *Iliad* in all of *Iliad* 23
 
 
 Advanced editing work:
 
 
-- *Iliad* 23 in the Venetus A manuscript:  folios 292 verso - 310 verso inclusive
+- *Iliad* 23 in the Venetus A manuscript:  folios 292 verso - 310 verso inclusive, validated against 2015 standard using the 2015 virtual machine
 
