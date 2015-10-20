@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Iliad</title>
+                <editor>Devin Gleeson</editor>
+                <editor>Molly Ostheller</editor>
+                <editor>Olga Levaniouk</editor>
+           </titleStmt>
+            <publicationStmt>
+                <p>Unpublished edition of the Venetus A manuscript for the Homer Multitext project</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Edited directly from photography of the manuscript</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div n="23">
+                <l n="1">ὡς οἱ μὲν στενάχοντο κατα πτόλιν· αὐτὰρ <rs
+                    type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιοὶ</rs>.</l>
+                <l  n="2"> ἐπειδὴ νῆάς τε καὶ <placeName
+                    n="urn:cite:hmt:place.place22">Ἑλλήσποντον</placeName> ῾ΐκοντο.</l>
+                <l n="3"> οἱ μὲν ὰρ ἐσκίδναντο ἑὴν ἐπι νῆα ἕκαστος·</l>
+                <l n="4">Μυρμιδόνας δ’ οὐκ εἴα ἀποσκίδνασθαι <persName
+                    n="urn:cite:hmt:pers.pers1">Ἀχιλλεύς</persName>·</l>
+                <l n="5">ἀλλ ̓ ὅ γε, οἷς, ἑτάροισι φιλοπτολέμοισι
+                    μετηύδα·</l>
+                <l n="6"> Μυρμιδόνες ταχύπωλοι, ἐμοὶ ἐρίηρες
+                    ἑταῖροι.</l>
+                <l n="7"> μὴ δή πω ὑπ ̓ όχεσφι λυώμεθα μώνυχας
+                    ἵππους·</l>
+                <l n="8"> ἂλλ̓ αὐτοῖς ἵπποισι καὶ ἅρμασιν άσσον
+                    ϊόντες.</l>
+                <l  n="9">
+                    <persName n="urn:cite:hmt:pers.pers158">Πάτροκλον</persName> κλαίωμεν. ὃ γὰρ γέρας ἐστὶ
+                    θανόντων·</l>
+                <l  n="10"> αὐτὰρ ἐπεί κ ̓ ὀλοοῖο τεταρπώμεθα γόοιο.</l>
+                <l n="11"> ἵππους λυσάμενοι δορπήσομεν ἐνθάδε
+                    πάντες·</l>
+            </div>
+        </body>
+    </text>
+</TEI>
