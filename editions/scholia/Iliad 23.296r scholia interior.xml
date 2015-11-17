@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Venetus A Main Shcolia</title>
+                <author>YOUR NAME HERE</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Transcribed from Venetus A MS</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <group n="23">
+            <text n="msAint">
+            <body>
+                <div n="urn:cts:greekLit:tlg5026.msAint.hmt:23.800" type="scholion">
+                    <div type="ref">
+                        <p>urn:cite:hmt:chsimg.VA296RN-0466:0.1323,0.5594,0.0651,0.0376</p>
+                    </div>
+                    <div type="comment">
+                        <p>ἐν ἄλλῳ τε τελεσμένα ὥσπερ ὑπεστην</p>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAint.hmt:23.801" type="scholion">
+                        <div type="ref">
+                            <p>urn:cite:hmt:chsimg.VA296RN-0466:0.1293,0.6188,0.0591,0.0263</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὁτὶ ἀπο κοινοῦ τοῦ δαπτέμεν</p>
+                        </div>
+                    </div>
+                </div>
+            </body>
+            </text>
+        </group>
+    </text>
+</TEI>
