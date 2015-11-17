@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Venetus A Main Shcolia</title>
+                <author></author>
+                <author></author>
+                <author></author>
+                <author></author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Transcribed from Venetus A MS</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <group n="23">
+            <text n="msA">
+                <body>
+                    <div n="803" type="scholion">
+                        <div type="lemma">
+                            <p>κηδεμόνες</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.163</p>
+                        </div>
+                        <div type="comment">
+                            <p>οἱ μάλιστα ἀμιώμενοι δια τοῦτο και φροντίζοντες</p>
+                        </div>
+                    </div>
+                        
+                    <div n="804" type="scholion">
+                        <div type="lemma">
+                            <p>ἑκατόμπεδον</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.164</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἑκατὸν ποδῶν ἔχουσαν πλευράν ὡς καὶ τετράπους λίθος ὥστε ἑκαστην 
+                                πλευρὰν <choice><abbr>ρ</abbr><reg>ἑκατόν</reg></choice> ποδῶν μέτρον ἔχειν</p>
+                        </div>
+                        
+                    </div>    
+                        <div n="805" type="scholion">
+                            <div type="lemma">
+                                <p>πρόσθε πυρῆς ἔδερον</p>
+                            </div>
+                            <div type="ref">
+                                <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.167</p>
+                            </div>
+                            <div type="comment">
+                                <p>δια τὸ τὴν πιμελὴν ἔξυπαφθῆναι τοῦτο ποιοῦντος τοῦ Ἀχιλλέως</p>
+                            </div>
+                        </div>
+                            <div n="806" type="scholion">
+                                <div type="lemma">
+                                    <p>ἐς πόδας ἐκ κεφαλῆς</p>
+                                </div>
+                                <div type="ref">
+                                    <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.169</p>
+                                </div>
+                                <div type="comment">
+                                    <p>τὰ πολλὰ τῶν ὑπομνημάτων δια τοῦ ε δρετάν καὶ τάχα ἀπο τοῦ δέρειν· ἡ διπλῆ 
+                                        δὲ πρὸς τὴν μετάθεσιν ὅτι ἀντι τοῦ δαρτά.</p>
+                                </div>
+                            </div>
+                                <div n="807" type="scholion">
+                                    <div type="lemma">
+                                        <p>προς λέχεα κλίνων πίσυρας</p>
+                                    </div>
+                                    <div type="ref">
+                                        <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.171</p>
+                                    </div>
+                                    <div type="comment">
+                                        <p> πίσυρας κατα πλευρὰν ἔνα, οἴκειος δὲ τῶν νεκρῶν. ὁ ἴ̈σος ἀριθμός δια τουτο 
+                                            τῷ Ποσειδῶνι πέντε θύουσιν </p>
+                                    </div>
+                                </div>
+                                    <div n="808" type="scholion">
+                                        <div type="lemma">
+                                            <p>ἐν δε πυρὸς μένος ῆκε</p>
+                                        </div>
+                                        <div type="ref">
+                                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.177</p>
+                                        </div>
+                                        <div type="comment">
+                                            <p>ἀμφω γὰρ τμητικὰ πῦρ καὶ σίδηρος τὸ δὲ νέμοιτο ἐμφατικῶς ἀντι τοῦ φάγοι. 
+                                                φησὶ γοῦν τοὺς ἅμα σοι πάντας πῦρ ἐσθίει</p>
+                                        </div>
+                                    </div>
+                                            
+                                            <div n="809" type="scholion">
+                                                <div type="lemma">
+                                                    <p>δώδεκα μὲν τρώων</p>
+                                                </div>
+                                                <div type="ref">
+                                                    <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.181</p>
+                                                </div>
+                                                <div type="comment">
+                                                    <p>συναπτέον τὸ ἐχῆς στίχω. τὸ γὰρ τοὺς κεῖται ἀντι τοῦ <rs type ="waw"> τούτους</rs> ἱν' ᾖ ὁ λόγος. 
+                                                        <quote> "δώδεκα μὲν τρώων υἱοὺς τούτους σὺν σοὶ τὸ πῦρ ἐσθίει" </quote> <ref>23.181-2</ref> δεικτικῶς. ἐὰν δε στίζωμεν
+                                                        ἐπι τὸ ἐσθλοὺς ἔσται τούτους ἀντι ὑποτακτικοῦ ἄρθρου τοῦ <rs type ="waw">οὕς</rs> </p>
+                                                </div>
+                                            </div>
+                                                    
+                                                    <div n="810" type="scholion">
+                                                        <div type="lemma">
+                                                            <p>ἥματα καὶ νύκτας</p>
+                                                        </div>
+                                                        <div type="ref">
+                                                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.186</p>
+                                                        </div>
+                                                        <div type="comment">
+                                                            <p>ὅτι μύρου τήν μὲν ὀνομασίαν ἀγνοεῖ τὴν δὲ σκευασίαν οἶδεν· τὸ γὰρ <w>ῥ <unclear> ό/ω </unclear>δινον </w>
+                                                                οὕτως νῦν εῖπεν ἔλαιον ῥοδόεν</p>
+                                                        </div>
+                                                    </div>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>
+
