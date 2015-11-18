@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Venetus A Inter-marginal Scholia</title>
+                <author>Joseph Bringman</author>
+                <author>Olga Levaniouk</author>
+                <author>Nicholas de Vry</author>
+                
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Transcribed from Venetus A MS</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <group n="12">
+            <text n="msAim">
+                <body>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:23.2906" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.691</p>
+                        </div>
+                        <div type="comment">
+                            <p> οὕτως έξω τοῦ  <rs type="waw">ϊ</rs> ἐστηκειν  
+                                δὲ ϊωνικὸν</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:23.2907" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.693</p>
+                        </div>
+                        <div type="comment">
+                            <p>γράφεται μέλαν γε ε</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:23.2908" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.697</p>
+                        </div>
+                        <div type="comment">
+                            <p> ἐν ἄλλῳ βαλόνΘ’</p>
+                        </div>
+                    </div>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>
+

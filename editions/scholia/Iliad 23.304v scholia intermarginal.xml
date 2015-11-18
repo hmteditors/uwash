@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Venetus A Inter-marginal Scholia</title>
+            <author>Adriana Vazquez</author>
+            <author>Joseph Bringman</author>
+            <author>Olga Levaniouk</author>
+            <author>Megan O'Donald</author>
+        </titleStmt>
+        <publicationStmt>
+            <p>Unpublished</p>
+        </publicationStmt>
+        <sourceDesc>
+            <p>Transcribed from Venetus A MS</p>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+<text>
+    <group n="12">
+        <text n="msAim">
+            <body>
+                <div n="urn:cts:greekLit:tlg5026.msAim.hmt:23.2505" type="scholion">
+                    <div type="lemma">
+                        <p/>
+                    </div>
+                    <div type="ref">
+                        <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.587</p>
+                    </div>
+                    <div type="comment">
+                        <p>ἐν ἀλλῷ ΐσχεο</p>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:23.2506" type="scholion">
+                        
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.599</p>
+                        </div>
+                        <div type="comment">
+                            <p>αντὶ τοῦ φρίσσοντας ἔχουσι τοὺς στάχυας</p> 
+                        </div>
+                        <div n="urn:cts:greekLit:tlg5026.msAim.hmt:23.2507" type="scholion">
+                            
+                            <div type="ref">
+                                <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.605</p>
+                            </div>
+                            <div type="comment">
+                                <p>γράφεται υστερον</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </body>
+        </text>
+    </group>
+</text>
+</TEI>
+
+
+
+
+

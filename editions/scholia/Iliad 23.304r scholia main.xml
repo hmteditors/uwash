@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Venetus A Main Shcolia</title>
+                <author>Adriana Vazquez</author>
+                <author>Joseph Bringman</author>
+                <author>Olga Levaniouk</author>
+                <author>Megan O'Donald</author>
+                <author>Iam James</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Transcribed from Venetus A MS</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <group n="11">
+            <text n="msA">
+                <body>
+                    <div n="urn:cts:greekLit:tlg5026.msA:12.2401" type="scholion">
+                        <div type="lemma">
+                            <p>Εὐμήλῳ ἐπιδοῦναι· </p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.559</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὑποστικτέον μετα το επιδοῦναι τοῦ ἑπομένου συνδέσμου περιττευόντος</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA:12.2402" type="scholion">
+                        <div type="lemma">
+                            <p>ῷ περι χεῦμα. ἀμφι δὲ δίνηται</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.561-562</p>
+                        </div>
+                        <div type="comment">
+                            <p>εἰσὶν οἳ ἀνεστρεψαν τὴν <rs type="waw">περι</rs>, ὁ μέντοι <persName n= "urn:cite:hmt:pers.pers 485">Ἀσκαλωνίτης</persName> καὶ οἱ πλείους 
+                                κατα παρολκὴν ἐξεδέξαντο κεῖσθαι δια τὸ ἀμφι δε δίνηται δι ὃ οὐκ αναστρέφουσιν </p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA:12.2403" type="scholion">
+                        <div type="lemma">
+                            <p>τοῖσι δὲ καὶ <persName n= "urn:cite:hmt:pers.pers 119">Μενέλαος</persName> ἀνίστατο·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.566</p>
+                        </div> 
+                        <div type="comment">
+                            <p>οὐ δια σμικρολογίαν ἐφίεται τοῦ μέιζονος ἄθλου ἀλλα φύσει πάντες νικᾶν θέλομεν. φιλότιμος οὖν ἐστι 
+                                περι τὴν νίκαν. ὅτι δε οὐδεὶς ἔρις ἔδειξε παραχρῆμα διαλυσάμενος μέμφεται δὲ αυτῷ ἀπατήσαντι καὶ παρα τὴν 
+                                ἡρωϊκὴν ἁπλότητα πανουργήσαντι, καὶ <persName n= "urn:cite:hmt:pers.pers 1">Ἀχιλλευς</persName>· 
+                                <quote>ἐκ γὰρ δή μ’ ἀπάτησεν</quote> <ref>urn:cts:greekLit:tlg0012.tlg001.msA:9.375</ref></p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA:12.2404" type="scholion">
+                        <div type="lemma">
+                            <p>ἐς μέσον ἀμφοτεροις</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.574</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι οὐκ εις τὸ μέσον παρελθόντες ἀλλα μέσον δικάσσατε, μήτε τούτῳ προσχαριζόμενοι μήτε ἐμοί. διὸ ἐπιφέρει 
+                                <quote>μηδ’ ἐπ αρωγη </quote> <ref>urn:cts:greekLit:tlg0012.tlg001.msA:23.574</ref></p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA:12.2405" type="scholion">
+                        <div type="lemma">
+                            <p><persName n= "urn:cite:hmt:pers.pers 712">Ἀντίλοχ’</persName> αἰ δ’ άγε</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.581</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀθετεῖται ὅτι ἀκαίρως λέγει διοτρεφὲς. ὀργιζόμενος αὐτῷ</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA:12.2406" type="scholion">
+                        <div type="lemma">
+                            <p>χερσὶν ἔχε’ ῥαδινὴν</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.581</p>
+                        </div>
+                        <div type="comment">
+                            <p>διαστολαὶ ἐπι τὸ <rs type="waw">ἅρματος</rs>, <rs type="waw">ἔλαυνες</rs>. καὶ <rs type="waw">αψάμενος</rs>. 
+                                μέχρι γὰρ τοῦ <rs type="waw">ἅρμα πεδῆσαι</rs> ήρτηται ὁ λόγος</p>
+                        </div>
+                    </div>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>
+
+
+
+

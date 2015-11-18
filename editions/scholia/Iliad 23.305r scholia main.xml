@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Venetus A Main Shcolia</title>
+                <author>Adriana Vazquez</author>
+                <author>Joseph Bringman</author>
+                <author>Olga Levaniouk</author>
+                <author>Megan O'Donald</author>   
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Transcribed from Venetus A MS</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <group n="11">
+            <text n="msA">
+                <body>
+                    <div n="urn:cts:greekLit:tlg5026.msA:12.2601" type="scholion">
+                        <div type="lemma">
+                            <p>ἁμφίθετος φιάλη·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.616</p>
+                        </div>
+                        <div type="comment">
+                            <p>προς τὴν ἀμφίθετον ὅτι ἡ πανταχόθεν ὑπέρεισιν ἔχουσα καὶ ὅτι οἰκονομικῶς ὑπολείπεται ἔπαθλον 
+                                ἵνα μὴ ὁ <persName n= "urn:cite:hmt:pers.pers 117">Νέστωρ</persName> 
+                                ἄτιμος γένηται ἐν τῷ ἐπι <persName n= "urn:cite:hmt:pers.pers 158">Πατρόκλῳ</persName> ἀγῶνι· 
+                                βέλτιον δὲ στίζειν ἐπι τὸ φιάλη καὶ τοῦ λόγου 
+                                διαστέλλην ἀξιοῦντος ἵνα ἀφ ετέρας ἀρχῆς ἀναγινώσκωμεν <quote> τὴν <persName n= "urn:cite:hmt:pers.pers 117">Νέστορι</persName> 
+                                    δῶκεν <persName n= "urn:cite:hmt:pers.pers 1">Ἀχιλλεὺς</persName></quote> <ref>urn:cts:greekLit:tlg0012.tlg001.msA:23.616</ref> ἀντι τοῦ <rs type="waw">ταύτην</rs> </p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA:12.2602" type="scholion">
+                        <div type="lemma">
+                            <p>aύτως οὐ γὰρ πύξ γε·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.621</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι προτάσσει τὴν πυγμήν ὡς καὶ ἐν Ὀδυσσείᾳ. <quote> οὐ γὰρ πύγμαχοι είμεν</quote> <ref>urn:cts:greekLit:tlg0012.Odyssey 8.246 </ref>, ὁ αυτὸς ἄρα ποιητής </p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA:12.2603" type="scholion">
+                        <div type="lemma">
+                            <p>οὐδέ τ’ἀκοντιστὺν ἐνδύσεαι·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.622</p>
+                        </div> 
+                        <div type="comment">
+                            <p>οὕτως ἐσδύσεαι σχεδὸν ἅπασαι οὐ δέ ποτε γὰρ <persName n= "urn:cite:hmt:pers.pers 17">Ὅμηρος</persName> τῇ <rs type="waw">ἐν</rs> ἀντι τῆς <rs type="waw">εἰς</rs> κέχρηται</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA:12.2604" type="scholion">
+                        <div type="lemma">
+                            <p>οὐ γὰρ ἐτ’ ἔμπεδα·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.627</p>
+                            <div type="comment">
+                                <p>ὅτι ἀπο τοῦ <rs type="waw">γὰρ</rs> ῆρκται τὸ αιτιατικὸν προταξας καὶ ὅτι ἐπεξηγήσατο τὴν ἐμπεδαγυῖαν λέξιν· βραχὺ δὲ διασταλτέον
+                                    ἐπι τὸ <rs type="waw">φίλος</rs>. ὅτι ὡς εἴρηται ἐπεξηγεῖται τὰ γυῖα ὄτι πόδες καὶ χεῖρες</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA:12.2605" type="scholion">
+                        <div type="lemma">
+                            <p>ὡς ὁπότε κρειόντ’  <persName n= "urn:cite:hmt:pers.pers941 ">Ἀμαρυγκέα</persName></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.630</p>
+                            <div type="comment">
+                                <p>ὅτι τῶν ἀναξίων ἀγώνων μέμνηται ἱερῶν δὲ οὔ</p>
+                            </div>
+                        </div>
+                    </div>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>
+
+
+
+
+
+
+

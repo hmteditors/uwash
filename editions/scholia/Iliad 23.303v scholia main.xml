@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Venetus A Main Shcolia</title>
+                <author>Adriana Vazquez</author>
+                <author>Stephen Fisher</author>
+                <author>Joseph Bringman</author>
+                <author>Olga Levaniouk</author>
+                <author>Megan O'Donald</author>
+                <author>James Piper</author>
+                <author>Iam James</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Transcribed from Venetus A MS</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <group n="11">
+            <text n="msA">
+                <body>
+                    <div n="urn:cts:greekLit:tlg5026.msA:12.2301" type="scholion">
+                        <div type="lemma">
+                            <p>ἕλκων άρματα καλα·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.533</p>
+                        </div>
+                        <div type="comment">
+                            <p>οὕτως πρόσσοθεν ἐλαύνων κατεαγότος δὲ τοῦ δίφρου ἀφικνεῖται ἐκ τῶν ἔμπροσθεν ἐλαύνων τοὺς ἵππους ὥσπερ οἱ τῶν ἀγωγαίων περιεχόμενοι καὶ τῇ μάστιγι περιελαύνων 
+                                κατα τὸν αὐχένα καὶ τὰς πλευρὰς. οὕτως γὰρ ἀκουστέον καὶ οὐ κυρίως· ἡ διπλὴ δὲ ὅτι <persName n= "urn:cite:hmt:pers.pers 15">Ζηνόδοτος</persName> γράφει 
+                                ἐλαύνων ὠκέας ἵππους ὡς ἡνιοχοῦντος αὐτοῦ, συντετριμμένου δὲ τοῦ ἅρματος ἔμπροσθεν γενόμενος ἐλαύνει τὰς πλευρὰς τῶν ἵππων τύπτων· βραχὺ δὲ διασταλτέον ἐπι τὸ καλὰ προς τὸ 
+                                σαφέστερον· τὸ δε πρόσσωθεν ὡς ἔμπροσθεν καὶ συνεστάλη τὸ <rs type="waw">ω</rs> εἰς τὸ <rs type="waw">ο</rs></p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA:12.2302" type="scholion">
+                        <div type="lemma">
+                            <p>δεύτερ’ ἀτὰρ·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.538</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι ἔν τισιν ὑποτάσσονται τούτῳ <quote>τὰ τρίτα δ’ <persName n= "urn:cite:hmt:pers.pers 712">Ἀντίλοχος</persName>· τέτρατα ξανθὸς 
+                                <persName n="urn:cite:hmt:pers.pers119">Μενέλαος</persName>· πέμπτα δὲ <persName n="urn:cite:hmt:pers.pers212">Μηριονης</persName> θεράπων ἐῢς 
+                                <persName n= "urn:cite:hmt:pers.pers 287">Ἰδομενῆος</persName> </quote> χωρὶς δὲ τοῦ μηδε τὸν χαρακτῆρα ἔχειν
+                                ὁμηρικὴν έτι καὶ προς ουδὲν γίνεται ἡ ἐξαρίθμησις τῆς τάξεως</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA:12.2303" type="scholion">
+                        <div type="lemma">
+                            <p> τῶν οἱ ἔπειτ’ ἀνελῶν· </p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.551</p>
+                        </div> 
+                        <div type="comment">
+                            <p>ὅτι τὸ ἔπειτα ἀντι τοῦ μετα ταῦτα·  ἀντιδιέσταλται γοῦν τὸ αὐτίκα. ἡ δε ἀναφορὰ. προσ τὸ <quote> <persName n="urn:cite:hmt:pers.pers405">Φοῖνιξ</persName> μὲν πρώτιστα 
+                                αὐτὰρ ἔπειτ’ <persName n="urn:cite:hmt:pers.pers127">Αἴας</persName> τε μέγας </quote> <ref>urn:cts:greekLit:tlg0012.tlg001.msA:9.168-169</ref></p>
+                        </div>
+                    </div>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>
+
+
+

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Venetus A Main Shcolia</title>
+            <author></author>
+            <author></author>
+            <author></author>
+            <author></author>
+        </titleStmt>
+        <publicationStmt>
+            <p>Unpublished</p>
+        </publicationStmt>
+        <sourceDesc>
+            <p>Transcribed from Venetus A MS</p>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+<text>
+    <group n="23">
+        <text n="msA">
+            <body>
+                <div n="urn:cts:greekLit:tlg5026.msA:23.900" type="scholion">
+                    <div type="lemma">
+                        <p>ὕλη τ'έσσεύαιτο</p>
+                    </div>
+                    <div type="ref">
+                        <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.198</p>
+                    </div>
+                    <div type="comment">
+                        <p>ὁρμὴν λάβοι. ἀπο δε τῶν ἐμψύχων μετῆκται· 
+                            χωρὶς δε τοῦ <rs type= "waw"> ν </rs> τὸ ὕλη τ'εσσεύαιτο ἀντι τοῦ ὁρμήσειαν 
+                            οἱ ἄνεμοι καιειν τὴν ὕλην</p>
+                    </div>
+                </div>
+                
+                <div n="urn:cts:greekLit:tlg5026.msA:23.901" type="scholion">
+                    <div type="lemma">
+                        <p>δυσαέος</p>
+                    </div>
+                    <div type="ref">
+                        <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.200</p>
+                    </div>
+                    <div type="comment">
+                        <p>οὐκ αεὶ ἀλλα χειμῶνι ἔστι γὰρ χειμῶνι μὲν δυσαής θέρους δὲ προσηνης</p>
+                    </div>
+                    
+                </div>   
+            </body>
+        </text>
+    </group>
+</text>
+</TEI>
+
+

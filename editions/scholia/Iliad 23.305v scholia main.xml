@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Venetus A Main Shcolia</title>
+                <author>Adriana Vazquez</author>
+                <author>Joseph Bringman</author>
+                <author>Olga Levaniouk</author>
+                <author>James Piper</author> 
+                <author>Megan O'Donald</author> 
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Transcribed from Venetus A MS</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <group n="11">
+            <text n="msA">
+                <body>
+                    <div n="urn:cts:greekLit:tlg5026.msA:23.2701" type="scholion">
+                        <div type="lemma">
+                            <p>πὺξ μὲν ἐνίκησα·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.634</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι τὴν ομοίαν τάξιν καὶ ὁ <persName n= "urn:cite:hmt:pers.pers 117">Νέστωρ</persName> τηρεῖ τῶν ἀγωνισμάτων</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA:23.2702" type="scholion">
+                        <div type="lemma">
+                            <p>Ἀγκαῖον δὲ πάλῃ· </p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.635</p>
+                        </div>
+                        <div type="comment">
+                            <p>προσ τὸ <quote>ὅς μοι ἀνέστη </quote><ref>urn:cts:greekLit:tlg0012.tlg001.msA:23.635 </ref> δεῖ γὰρ αὐτὸν ὑποστήσασθαι λαθήμενον τοῦ δε κήρυκος παλαιστὰς καλέσαντος ἀνιστάμενον· </p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA:23.2703" type="scholion">
+                        <div type="lemma">
+                            <p>οἱοισίν ἵπποισι πλήθει πρόσθε βαλοντες·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.638</p>
+                        </div> 
+                        <div type="comment">
+                            <p> σεσημείωται ὁ τόπος προσ τὰ περι τῶν 
+                                
+                                <persName n= "urn:cite:hmt:pers.pers 275,467"> Μολιονιδῶν</persName>  ζητούμενα· ζητεῖται γὰρ τί εστι τὸ 
+                                <quote>πλήθει πρόσθε βαλόντες</quote><ref>urn:cts:greekLit:tlg0012.tlg001.msA:23.639 </ref>·καὶ ὁποῖοί τινες 
+                                ἧσαν τὴν φύσιν ὡς λέγεσθαι ἐπ’ αυτῶν τ’ <quote>οὶ δ ὰρ ἔσαν δίδυμοι </quote><ref>urn:cts:greekLit:tlg0012.tlg001.msA:23.641 </ref> 
+                                τῆς τε τῆς ἁρματηλασίας ὁ τρόπος. καὶ τί τὸ τῆς νίκης αἴτιον Ἀντόδωρος μὲν οὖν ὁ Κυμαῖος τὴν μὲν φύσιν αὐτῶν 
+                                οἷα τίς ποτέ ἐστιν οὐ προσποιεῖται· τινὰς δε φασὶ λέγειν ὅτι ἅρματα πλείονα καθῆκαν εἰς τὸν αγῶνα οἷς ἐνεμπόδιζον τὰ τῶν ἀντιπάλων καὶ τοῦτο εἶναι τῷ 
+                                <quote>πλήθει πρόσθε βαλόντες</quote><ref>urn:cts:greekLit:tlg0012.tlg001.msA:23.639 </ref>. ἄλλοι δὲ φασὶ πρὸς τὴν ἄφεσιν τῶν ἁρμάτων συνηγωνίσθαι 
+                                τοῖς <persName n= "urn:cite:hmt:pers.pers 650"> Ἄκτωρος</persName> υἱοῖς 
+                                τοὺς ἀθλοθετοῦντας. διόπερ ἀφῆκαν πολὺ προλαβεῖν τὰ τούτων ἅρματα καὶ τοῦτ έστι τὸ <quote>πλήθει πρόσθε βαλόντες</quote><ref>urn:cts:greekLit:tlg0012.tlg001.msA:23.639 </ref>.
+                                <persName n= "urn:cite:hmt:pers.pers 17"> Ἀρίσταρχος</persName>  δὲ διδύμους ἀκούει· οὐχ οὕτως ὡς ἡμεῖς ἐν τῇ  συνηθείᾳ
+                                νοοῦμεν οἷοι ῆσαν καὶ οἱ Διοσκοροι ἀλλα τοὺς διφυεῖς δύο ἔχοντας σώματα <persName n= "urn:cite:hmt:pers.pers 4"> Ἡσιόδῳ</persName>  μάρτυρι χρώμενος καὶ τοὺς 
+                                συμπεφυκότας ἀλλήλοις. οὕτως γὰρ καὶ τὸ λεγόμενον ἐπ’ αυτῶν σαφηνίζεσθαι ἄριστα. ἀνασταντος γὰρ δὴ τοῦ <persName n= "urn:cite:hmt:pers.pers 117">Νέστορος</persName> ἐπι τὸν αγῶνα 
+                                καὶ αὐτοὺς ἀναστῆναι εἰτα τὸν μὲν <persName n= "urn:cite:hmt:pers.pers 117">Nέστορα</persName> λέγειν  ὡς οὐ δίκαιοι ῆεν αγωνίζεσθαι 
+                            παρηλλαγμένοι τὴν φύσιν ὄντες. ὁ δε δῆμος συναγωνίζοιτο αὐτοῖς καὶ λέγοι ὡς ῆεν εἱς ἀμφότεροι καὶ δια τοῦτο ὀφείλοι εν ἐνὸς 
+                            ἐπιβαίνειν ἅρματος ἁτε δὴ συμπεφυκότες. καὶ κρατοῖεν γε οἱ πολλοὶ καὶ τοῦτον εἶναι τῷ 
+                                <quote>πλήθει πρόσθε βαλόντες</quote><ref>urn:cts:greekLit:tlg0012.tlg001.msA:23.639 </ref></p>
+                        </div>
+                    </div> 
+                    <div n="urn:cts:greekLit:tlg5026.msA:23.2604" type="scholion"> 
+                        <div type="lemma">
+                            <p>οὐ γὰρ ἐτ’ ἔμπεδα·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.627</p>
+                            <div type="comment">
+                                <p>ὅτι ἀπο τοῦ <rs type="waw">γὰρ</rs> ῆρκται τὸ αιτιατικὸν προταξας καὶ ὅτι ἐπεξηγήσατο τὴν ἐμπεδαγυῖαν λέξιν· βραχὺ δὲ διασταλτέον
+                                    ἐπι τὸ <rs type="waw">φίλος</rs>. ὅτι ὡς εἴρηται ἐπεξηγεῖται τὰ γυῖα ὄτι πόδες καὶ χεῖρες</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA:23.2605" type="scholion">
+                        <div type="lemma">
+                            <p>ὡς ὁπότε κρειόντ’ Ἀμαρυγκέα</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.630</p>
+                            <div type="comment">
+                                <p>ὅτι τῶν ἀναξίων ἀγώνων μέμνηται ἱερῶν δὲ οὔ</p>
+                            </div>
+                        </div>
+                    </div>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Venetus A Main Shcolia</title>
+                <author>Ian James</author>
+                <author>James Piper</author>
+                <author>Olga Levaniouk</author>
+                <author>Megan O'Donald</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Transcribed from Venetus A MS</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <group n="11">
+            <text n="msA">
+                <body>
+                    <div n="urn:cts:greekLit:tlg5026.msA:23.2201" type="scholion">
+                        <div type="lemma">
+                            <p>αὐτὸς δ’ ἐκ δίφροιο χαμαὶ.</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.509</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι τοῦτο διακρίνει τὴν ἐν αλλήλοις ἀμγιβολίαν <quote>προς τὸ ἐνώπια παμφανόωντα </quote> <ref>urn:cts:greekLit:tlg0012.tlg001.msA:8.435</ref>δείκνυται γὰρ τὰ ἅρματα παμφανόωντα·</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:23.2202" type="scholion">
+                        <div type="lemma">
+                            <p>τῷ δ ὰρ ἔπ <persName n= "urn:cite:hmt:pers.pers 712">Αντίλοχος</persName> <persName n= "urn:cite:hmt:pers.pers 204">Νηλήϊος</persName></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.514</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι ἀπο τοῦ προτάτορος ὁ <persName n= "urn:cite:hmt:pers.pers 712">Ἀντίλοχος</persName> <persName n= "urn:cite:hmt:pers.pers 204">Νηλήϊος</persName>. 
+                                ἔστι γὰρ θεοῦ υἱὸς ὀ <persName n= "urn:cite:hmt:pers.pers 204">Νηλεὺς</persName>  <persName n= "urn:cite:hmt:pers.pers 47">Ποσειδῶνος</persName>. 
+                                βραχὺ δὲ διασταλτέον ἐπι τὸ ἲππους προς τὸ σαφέστερον</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA:23.2203" type="scholion">
+                        <div type="lemma">
+                            <p>λείπετ’ ἀτὰρ τὰ πρῶτα·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.523</p>
+                        </div>
+                        <div type="comment">
+                            <p>σημειοῦνται τινὲς ὅτι ἃ ἄνω εἴπε δίσκου οῦρα· νῦν δὲ συνθετώς δίσκουρα</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA:23.2204" type="scholion">
+                        <div type="lemma">
+                            <p>καὶ ἐς δίσκουρα λέλειπτο·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.523</p>
+                        </div>
+                        <div type="comment">
+                            <p> <persName n= "urn:cite:hmt:pers.pers 308">Πτολεμαῖος </persName> καὶ οἱ πλείους δίσκουρα ὡς λίπουρα. καὶ  <persName n= "urn:cite:hmt:pers.pers 16">Ἀρίσταρχος</persName> δὲ φησὶν 
+                                ὅπερ ἄνω κατα διάλυσιν εἷπεν· <quote>ὅσσα δὲ δίσκου ούρα </quote> <ref>urn:cts:greekLit:tlg0012.tlg001.msA:23.431</ref> τοῦτο νῦν κατα σύνθεσιν ἐξήνεγκεν. 
+                                καγὼ δὲ, συγκατατίθεμαι</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA:23.2205" type="scholion">
+                        <div type="lemma">
+                            <p>τῶ κέ μιν παρέλασ’</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.527</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι <persName n= "urn:cite:hmt:pers.pers 15">Ζηνόδοτος</persName> γράφει ἡ ἀμφήριστὸν ἔθηκεν οὐκ εὐ. νῦν γὰρ οὐχ αρμόζει ἐπι <persName n= "urn:cite:hmt:pers.pers 215">Διομήδους</persName> δὲ τοῦ σύνεγγυς τρέχοντος. 
+                                δια δὲ <choice> <sic>τοῦτου </sic> <corr>τούτου </corr></choice> βούλεται λέγειν οὐδ’ ὅλως ἀμφήριστον</p>
+                        </div>
+                    </div>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>
+
+

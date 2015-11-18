@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Venetus A Main Shcolia</title>
+                <author>Olga Levaniouk</author>
+                <author>Ian James</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Transcribed from Venetus A MS</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <group n="11">
+            <text n="msA">
+                <body>
+                    <div n="urn:cts:greekLit:tlg5026.msA:23.2101" type="scholion">
+                        <div type="lemma">
+                            <p>δεῦρο νῦν ἡ τρίποδος περιδώμεθον· </p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.485</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐνθάδε τὸ νῦν συσταλτέον δια τὸ μέτρον τὸ δὲ περιδώμεθον ἐστι ἓν επεὶ δηλοῖ τὸ συνθήκας ποιησώμεθα </p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA:23.2102" type="scholion">
+                        <div type="lemma">
+                            <p>ὁππότεραι προσθ’ ἵπποι·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.487</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὁ νοῦς ἵνα τὸ ἐπιτίμιον διδοὺς γνῷς ὁπότεραί ἐισὶν ἵπποι πρότεραι</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA:23.2103" type="scholion">
+                        <div type="lemma">
+                            <p>μάστι δ’ αἰὲν ἔλαυνε·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.500</p>
+                        </div>
+                        <div type="comment">
+                            <p>μάστι ἀπο τῆς μάστιγος ϊωνιξ ὡς Θέτι</p>
+                        </div>
+                    </div>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI> 
+

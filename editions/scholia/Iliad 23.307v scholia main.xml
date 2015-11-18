@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Venetus A Main Shcolia</title>
+                
+                <author>Joseph Bringman</author>
+                <author>Olga Levaniouk</author>
+                <author>Nicholas de Vry</author>
+                
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Transcribed from Venetus A MS</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <group n="11">
+            <text n="msA">
+                <body>
+                    <div n="urn:cts:greekLit:tlg5026.msA:12.3100" type="scholion">
+                        <div type="lemma">
+                            <p>ὄρνυσθ’ οἳ καὶ τούτον</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.753</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι Ζηνόδοτος γράφει πειρήσεσθον τριῶν ὄντων τῶν κεκλημένων πρὸς τὸν δρόμον</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA:12.3101" type="scholion">
+                        <div type="lemma">
+                            <p>στάν δὲ μεταστοιχὶ</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.757</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι μετενήνεκται ἐνθάδε ἐπι τῆς ἁρματοδρομίας. ἐκεῖ μὲν οὖν μεταστοιχὶ λέγει ἐπὶ στίχον ἵστανται 
+                            κεκληρωμένοι· ἐνταῦθα δὲ οὐκέτι ἀλλα κατὰ ζυγὸν ἡ στάσις λέγεται κατα μέτωπον πάντων ἐξ ἱσου ὄντων</p>
+                        </div>
+                        </div> 
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>
+
+
+
+
+
+
+

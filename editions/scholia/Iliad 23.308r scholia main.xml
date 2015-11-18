@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Venetus A Main Shcolia</title>
+                
+                <author>Adriana Vazquez</author>
+                <author>Olga Levaniouk</author>
+                <author></author>
+                
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Transcribed from Venetus A MS</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <group n="11">
+            <text n="msA">
+                <body>
+                    <div n="urn:cts:greekLit:tlg5026.msA:12.3200" type="scholion">
+                        <div type="lemma">
+                            <p>ὡς δ’ ὅτε τίς τε γυναικὸς</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.760</p>
+                        </div>
+                        <div type="comment">
+                            <p>ταῦτα ἡ τοῖς ἄνω συναπτέον. ἢ ἀπ’ άλλης ἀρχῆς τοῖς ἑξῆς ἥ τε διαφορὰ  <choice><abbr>πε</abbr><expan>περὶ</expan></choice> τὴν ανταπόδοσιν</p>
+                        </div>
+                    </div>
+                    <div n="urn:cts:greekLit:tlg5026.msA:12.3201" type="scholion">
+                        <div type="lemma">
+                            <p></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
+                        </div>
+                    </div> 
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>
+
+
+
+
+
+
+
+
+

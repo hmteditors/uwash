@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Venetus A Main Scholia</title>
+                <author>Megan O'Donald</author>
+                <author> James Piper</author>
+                <author> Edgar Garcia</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Transcribed from Venetus A MS</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <group n="11">
+            <text n="msA">
+                <body>
+                    <div n="urn:cts:greekLit:tlg5026.msA:23.3001" type="scholion">
+                        <div type="lemma">
+                            <p>ἀγκὰσ δ' ἀλλήλων λαβέτην</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.711</p>
+                        </div>
+                        <div type="comment">
+                            <p>συναπτέον πάντα ἕωσ  <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:23.713</ref><q>τοῦ βίασ ἀνέμον άλεείνω</q></cit> βραχὺ παντελῶσ
+                                διασταλτέον ἐπι τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:23.712</ref><q>ἀμείβοντεσ</q></cit> ἐι δέ τισ ἀναγινώσκοι
+                                ἀφ ετέρασ ἀρχῆσ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:23.712</ref><q>ὡσ ὅτ΄ ἀμείβοντεσ</q></cit> ἁμαρτάνει ἡ γαρ 
+                                ἀνταπόδοσισ οὐκ επιφέρεται ἀλλα προαποδέδοται <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:23.712</ref><q>ἀμείβοντεσ</q></cit>
+                                δὲ δοκοῖ μεγάλαι ἀλλήαισ προσπίπτουσαι ὥστε βαστάζειν τὴν οροφὲν οἵτινεσ καὶ συστάται καλοῦνται</p>
+                        </div>
+                    </div>
+                   
+                    <div n="urn:cts:greekLit:tlg5026.msA:23.3002" type="scholion">
+                        <div type="lemma">
+                            <p>τρίποδοσ περι ποιητοῖο</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.718</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἔφαμεν περι τῶν τοιούτων πρότερον δεῖ ἀναστρέφειν τὰσ προθέσεισ μεταξὒ κεμένασ δύο ὀνομάτων ἠ οῦ ὡσ έπι τοῦ 
+                                <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:6.124</ref><q>μάχῃ ἔνι κυδιανείρῃ</q></cit> καὶ ὡσ οἱ πλείουσ θέλουσι τοῖσ ἐπιθετικοῖσ συντάσσειν <choice><sic>αὒτάσ</sic><corr>αὐτάσ</corr></choice>
+                                διὸ καὶ ὁ <persName n="urn:cite:hmt:pers.pers485">ἀσκαλωνίτησ</persName> ἐνθάδε οὐκ αναστρέφει. δύναται μέντοι ἐνθάδε ἡ περι ἰσοδυναμεῖν τῷ περισσῶσ τουτέστιν
+                               ἐξαιρειτώσ πεποιημένου. διὸ οὔκ αναστρεπτέον</p>
+                        </div>
+                    </div>
+                   
+                    <div n="urn:cts:greekLit:tlg5026.msA:23.3003" type="scholion">
+                        <div type="lemma">
+                            <p>ἀλλ' ὅτε δή ρ' ἀνίαζον.</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.721</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι ἀντι τοῦ εἰσ ἀνί αν ἤγον καὶ </p>
+                        </div>
+                    </div>
+                   
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>
+
+
+
+
+
+
+
