@@ -62,6 +62,19 @@
                             <p>ὅτι ἀντι τοῦ εἰσ ἀνίαν ἤγον καὶ ἐχρόνιζον τοῦτο δὲ μὴ νοήσαντεσ μετέγραψαν <q>ἐϋχνήμιδεσ <rs type="ethnic" n="urn:cite:hmt:place.place96">άχαιοί</rs></q></p>
                         </div>
                     </div>
+                    
+                    <div n="urn:cts:greekLit:tlg5026.msA:23.3004" type="scholion">
+                        <div type="lemma">
+                            <p>ὡσ εἰπῶν ἀνάειρε</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.725</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι τὸ δόλιον τοῦ ἥρωοσ καὶ δια τούτων δείκνυται· καὶ ὅτι οὐδέπω τέχνην ηἶδεσαν ἐν τῷ παλαίειν· σημειοῦνται δέ <choice><sic>τινὲσ</sic><corr>τινεσ</corr></choice>
+                                καὶ τὸν <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:23.726</ref><q>κόψ ὅπιθεν κώληπα</q></cit> ὅτι τὸ κῶλον οὕτωσ εῖπεν</p> 
+                        </div>
+                    </div>
                    
                 </body>
             </text>
