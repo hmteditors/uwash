@@ -75,6 +75,31 @@
                                 καὶ τὸν <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:23.726</ref><q>κόψ ὅπιθεν κώληπα</q></cit> ὅτι τὸ κῶλον οὕτωσ εῖπεν</p> 
                         </div>
                     </div>
+                    
+                    <div n="urn:cts:greekLit:tlg5026.msA:23.3005" type="scholion">
+                        <div type="lemma">
+                            <p>κόψ' όπιθεν κώληπα τυχὼν</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.726</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἔκρουσεν αὐτοῦ φησὶν ἐπιτυχῶν ὅπιθεν τὴν ἰγνύην ἥτισ καὶ ἀγκύλη καλεῖται ὡσ τῶν μέσων αἱρόμενοσ περιπλέκεται</p> 
+                        </div>
+                     </div>
+                    
+                    <div n="urn:cts:greekLit:tlg5026.msA:23.3006" type="scholion">
+                        <div type="lemma">
+                            <p>ἐν δε γόνυ γνάψεν</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.731</p>
+                        </div>
+                        <div type="comment">
+                            <p>λεπτινησ δασύνει ὡσ ἐπ αριθμοῦ τὸ ἓν γόνυ ἔκαμψεν ὡσ ἐπι τοῦ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:9.209</ref><q>ἕν δέπασ ἐμπλήσασ</q></cit>. οἱ δε ἄλλοι πάντεσ⁑ πρόθεσιν ἐξεδέξαντο
+                                δια τὸ ἀεὶ ἕτερον λέγειν τὸν ποιητὴν ἐπι δύο ἓν δὲ οὐδέποτε <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:2.217</ref><q>χωλὸσ δ' ἕτερον πόδα</q></cit>. <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:12.101</ref><q>τὸν δ' έτερον σκόπελον</q></cit></p> 
+                        </div>
+                    </div>
                    
                 </body>
             </text>
