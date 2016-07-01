@@ -1,3 +1,13 @@
 Observation,TextUrn,Image,Comments
 urn:cite:op:TEAM.1,urn:cts:greekLit:tlg0012.tlg001.msA:PASSAGE,"IMG URN",
-
+urn:cite:op:uw.1,urn:cts:greekLit:tlg0012.tlg001.msA:23.1@ω,"urn:cite:hmt:vaimg.VA292VN-0794@0.417,0.5008,0.087,0.0683",
+urn:cite:op:uw.2,urn:cts:greekLit:tlg0012.tlg001.msA:23.1@σ,"urn:cite:hmt:vaimg.VA292VN-0794@0.504,0.5248,0.012,0.0128"
+urn:cite:op:uw.3,urn:cts:greekLit:tlg0012.tlg001.msA:23.1@ο,"urn:cite:hmt:vaimg.VA292VN-0794@0.517,0.527,0.008,0.0098"
+urn:cite:op:uw.4,urn:cts:greekLit:tlg0012.tlg001.msA:23.1@ι,"urn:cite:hmt:vaimg.VA292VN-0794@0.527,0.527,0.006,0.0083"
+urn:cite:op:uw.5,urn:cts:greekLit:tlg0012.tlg001.msA:23.1@μ,"urn:cite:hmt:vaimg.VA292VN-0794@0.535,0.5248,0.017,0.0113"
+urn:cite:op:uw.6,urn:cts:greekLit:tlg0012.tlg001.msA:23.1@ε,"urn:cite:hmt:vaimg.VA292VN-0794@0.554,0.5218,0.013,0.0113"
+urn:cite:op:uw.7,urn:cts:greekLit:tlg0012.tlg001.msA:23.1@ν,"urn:cite:hmt:vaimg.VA292VN-0794@0.562,0.5255,0.015,0.0135"
+urn:cite:op:uw.8,urn:cts:greekLit:tlg0012.tlg001.msA:23.1@στ,"urn:cite:hmt:vaimg.VA292VN-0794@0.578,0.524,0.022,0.012"
+urn:cite:op:uw.9,urn:cts:greekLit:tlg0012.tlg001.msA:23.1@ε[2],"urn:cite:hmt:vaimg.VA292VN-0794@0.593,0.5218,0.018,0.0105"
+urn:cite:op:uw.10,urn:cts:greekLit:tlg0012.tlg001.msA:23.1@ν[2],"urn:cite:hmt:vaimg.VA292VN-0794@0.605,0.5233,0.019,0.0165"
+urn:cite:op:uw.11,urn:cts:greekLit:tlg0012.tlg001.msA:23.1@α,"urn:cite:hmt:vaimg.VA292VN-0794@0.62,0.524,0.016,0.009"
