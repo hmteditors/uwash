@@ -99,7 +99,8 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.63</p>
                         </div>
                         <div type="comment">
-                            <p>ὅτι σαφῶσ ἀπο τοῦ <rs type= "waw">ν</rs> ἄρχεται τὰ ὄνομα</p>
+                            <p><choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> σαφῶσ ἀπο τοῦ <rs type= "waw">ν</rs> 
+                                <choice><abbr>ἄρχετ</abbr><expan>ἄρχεται</expan></choice> τὰ ὄνομα</p>
                         </div>
                         
                     </div>

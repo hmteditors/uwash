@@ -69,7 +69,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.61</p>
                         </div>
                         <div type="comment">
-                            <p><choice><abbr>διχ</abbr><expan>διχῶςδιχῶς</expan></choice></p>
+                            <p><choice><abbr>διχ</abbr><expan>διχῶς</expan></choice></p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAint.hmt:23.417" type="scholion">
@@ -77,7 +77,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:23.64</p>
                         </div>
                         <div type="comment">
-                            <p>ὅτι θηλυκῶς τὴν <placeName n="urn:cite:hmt:place.place6">Ἴλιον</placeName></p>
+                            <p><choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> <choice><abbr>θηλυ</abbr><expan>θηλυκῶς</expan></choice> τὴν <placeName n="urn:cite:hmt:place.place6">Ἴλιον</placeName></p>
                         </div>
                         <div n="urn:cts:greekLit:tlg5026.msAint.hmt:23.418" type="scholion">
                             <div type="ref">
