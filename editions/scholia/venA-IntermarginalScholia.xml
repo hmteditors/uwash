@@ -365,7 +365,7 @@
                             <p>urn:cts:greekLit:tlg 0012.tlg001.msA:23.501</p>
                         </div>
                         <div type="comment">
-                            <p>κατεχρήσατ</p>
+                            <p><choice><abbr>κατεχρήσατ</abbr><expan>κατεχρήσατο</expan></choice></p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAim.hmt:23.2109" type="scholion">
